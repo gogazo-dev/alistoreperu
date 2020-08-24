@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Versión de evaluación) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="270.933mm" height="203.2mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 27093.32 20320"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="U" horiz-adv-x="722" d="M546.001 716l94.9987 0 0 -413.5c0,-71.999 -8.16508,-129.165 -24.3332,-171.5 -16.3323,-42.1676 -45.6666,-76.6672 -87.9985,-103.166 -42.5005,-26.5009 -98.0007,-39.8335 -167,-39.8335 -66.8337,0 -121.668,11.4999 -164.169,34.666 -42.6647,23.1661 -72.9996,56.4987 -91.1647,100.333 -18.1672,43.8339 -27.3352,103.667 -27.3352,179.5l0 413.5 95.0009 0 0 -413.334c0,-62.1654 5.83314,-108.167 17.333,-137.499 11.4999,-29.5007 31.167,-52.334 59.3342,-68.1671 27.9986,-15.9995 62.3318,-24.0004 102.833,-24.0004 69.332,0 118.833,15.8331 148.333,47.3329 29.4985,31.6684 44.1668,92.3339 44.1668,182.334l0 413.334z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str1 {stroke:#F10EC1;stroke-width:105.83;stroke-miterlimit:22.9256}
+    .str4 {stroke:#F10EC1;stroke-width:264.58;stroke-miterlimit:22.9256}
+    .str3 {stroke:#FE10C1;stroke-width:264.58;stroke-miterlimit:22.9256}
+    .str2 {stroke:#F10EC1;stroke-width:52.92;stroke-miterlimit:22.9256}
+    .str0 {stroke:#F7F2F2;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil1 {fill:#F10EC1}
+    .fil0 {fill:white}
+    .fnt0 {font-weight:normal;font-size:4567.01px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" transform="matrix(0.317853 0.380199 -0.380199 0.317853 17176.4 6623.18)" width="7064.37" height="317.5"/>
+  <rect class="fil1" x="8379.09" y="4405.88" width="9696.97" height="8784.17"/>
+  <polygon class="fil0" points="13171.27,4940.81 14925.75,8093.09 16680.23,11245.36 13171.27,11245.36 9662.32,11245.36 11416.79,8093.09 "/>
+  <rect class="fil1" x="10039.38" y="4618.32" width="6453.81" height="986.43"/>
+  <polygon class="fil1" points="16445.36,10466.07 17204.28,11808.23 17963.19,13150.36 16445.36,13150.36 14927.53,13150.36 15686.45,11808.23 "/>
+  <polygon class="fil1" points="9883.7,10466.07 10642.62,11808.23 11401.53,13150.36 9883.7,13150.36 8365.87,13150.36 9124.79,11808.23 "/>
+  <line class="fil2 str1" x1="12554.39" y1="7104.63" x2="10337.01" y2= "11258.59" />
+  <line class="fil2 str1" x1="16345.15" y1="10643.3" x2="11474.72" y2= "10650.05" />
+  <line class="fil2 str1" x1="14968.95" y1="9740.57" x2="12771.18" y2= "5609.4" />
+  <line class="fil2 str1" x1="14968.95" y1="9743.72" x2="11946.39" y2= "9750.47" />
+  <line class="fil2 str1" x1="12926.48" y1="7907.26" x2="11448.26" y2= "10676.51" />
+  <line class="fil2 str1" x1="13939.17" y1="9746.04" x2="12565.26" y2= "7163.49" />
+  <polygon class="fil1 str2" points="12943.16,8014.13 13412.8,8881.14 13882.43,9748.13 12943.16,9748.13 12003.89,9748.13 12473.53,8881.14 "/>
+  <g transform="matrix(-1.64246 -0.0480141 0.0789523 -0.998847 36650.9 12210.5)">
+   <text x="13546.66" y="10160"  class="fil1 fnt0">U</text>
+  </g>
+  <line class="fil2 str3" x1="17963.19" y1="13122.77" x2="18826.67" y2= "12528.51" />
+  <line class="fil2 str1" x1="18782.89" y1="12545.28" x2="18735.17" y2= "4124.77" />
+  <line class="fil2 str1" x1="18757.99" y1="4124.78" x2="8896.95" y2= "4131.53" />
+  <line class="fil2 str1" x1="8379.1" y1="4475.78" x2="8953.56" y2= "4108.64" />
+  <g transform="matrix(-1.68204 -0.0480141 0.0808549 -0.998847 39009.7 12316.4)">
+   <text x="13546.66" y="10160"  class="fil1 fnt0">U</text>
+  </g>
+  <line class="fil2 str1" x1="18047.88" y1="13047.99" x2="18360.32" y2= "10277.31" />
+  <line class="fil2 str1" x1="18664.45" y1="12528.51" x2="18365.38" y2= "10369.88" />
+  <line class="fil2 str1" x1="18346.06" y1="10369.88" x2="18391.84" y2= "4393.61" />
+  <line class="fil2 str4" x1="17644" y1="4664.3" x2="18735.18" y2= "4207.89" />
+ </g>
+</svg>
