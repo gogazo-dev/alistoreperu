@@ -45,576 +45,581 @@
 </head>
 
 <body>
-  <div>
-    <div id="wsp">
-      <a href="https://api.whatsapp.com/send?phone=51944819998&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20AliStore. (https://alistoreperu.com)"
-        class="float" target="_blank">
-        <i class="fab fa-whatsapp my-float"></i>
-      </a>
-    </div>
+  <div id="wsp">
+    <a href="https://api.whatsapp.com/send?phone=51944819998&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20AliStore. (https://alistoreperu.com)"
+      class="float" target="_blank">
+      <i class="fab fa-whatsapp my-float"></i>
+    </a>
+  </div>
 
-    <!-- Load Facebook SDK for JavaScript -->
-    <div id="fb-root"></div>
-    <script>
-      window.fbAsyncInit = function () {
-        FB.init({
-          xfbml: true,
-          version: 'v8.0'
-        });
-      };
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function () {
+      FB.init({
+        xfbml: true,
+        version: 'v8.0'
+      });
+    };
 
-      (function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-    </script>
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
 
-    <!-- Your Chat Plugin code -->
-    <div class="fb-customerchat" attribution=setup_tool page_id="105819581249145" theme_color="#e3207b"
-      logged_in_greeting="Bienvenido a Ali Store, ¿cómo podemos ayudarte?"
-      logged_out_greeting="Bienvenido a Ali Store, ¿cómo podemos ayudarte?">
-    </div>
+  <!-- Your Chat Plugin code -->
+  <div class="fb-customerchat" attribution=setup_tool page_id="105819581249145" theme_color="#e3207b"
+    logged_in_greeting="Bienvenido a Ali Store, ¿cómo podemos ayudarte?"
+    logged_out_greeting="Bienvenido a Ali Store, ¿cómo podemos ayudarte?">
+  </div>
 
-    <div class="site-wrap">
+  <div class="site-wrap">
 
-      <div class="site-navbar mt-4">
-        <div class="container py-1">
-          <div class="row align-items-center">
-            <div class="col-10 col-md-10 col-lg-4">
-              <h1 class="mb-0"><a href="https://alistoreperu.com/" style="size: 60em;" class="text-white h2 "><img
-                    src="images/AliStoreLogoSinTextoPlomo.svg" style="width: 80px; " alt=""><strong>AliStore<span
-                      class="text-primary">.</span></strong></a></h1>
-            </div>
-            <div class="col-2 col-md-2 col-lg-8">
-              <nav class="site-navigation text-right text-md-right" role="navigation">
-
-                <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#"
-                    class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
-
-                <ul class="site-menu js-clone-nav d-none d-lg-block">
-                  <li class="active">
-                    <a href="https://alistoreperu.com/">Inicio</a>
-                  </li>
-                  <li>
-                    <a href="#nosotros">Nosotros</a>
-                  </li>
-                  <li>
-                    <a href="productos/index.php">Productos</a>
-                  </li>
-                  <li>
-                    <a href="#ofertas">Ofertas</a>
-                  </li>
-                  <li>
-                    <a href="#contactanos">Contáctanos</a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-
-
+    <div class="site-navbar mt-4">
+      <div class="container py-1">
+        <div class="row align-items-center">
+          <div class="col-10 col-md-10 col-lg-4">
+            <h1 class="mb-0"><a href="https://alistoreperu.com/" style="size: 60em;" class="text-white h2 "><img
+                  src="images/AliStoreLogoSinTextoPlomo.svg" style="width: 80px; " alt=""><strong>AliStore<span
+                    class="text-primary">.</span></strong></a></h1>
           </div>
+          <div class="col-2 col-md-2 col-lg-8">
+            <nav class="site-navigation text-right text-md-right" role="navigation">
+
+              <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#"
+                  class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+              <ul class="site-menu js-clone-nav d-none d-lg-block">
+                <li class="active">
+                  <a href="https://alistoreperu.com/">Inicio</a>
+                </li>
+                <li>
+                  <a href="#nosotros">Nosotros</a>
+                </li>
+                <li>
+                  <a href="productos/index.php">Productos</a>
+                </li>
+                <li>
+                  <a href="#ofertas">Ofertas</a>
+                </li>
+                <li>
+                  <a href="#contactanos">Contáctanos</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+
+
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="site-mobile-menu">
-      <div class="site-mobile-menu-header">
-        <div class="site-mobile-menu-close mt-3">
-          <span class="icon-close2 js-menu-toggle"></span>
+  <div class="site-mobile-menu">
+    <div class="site-mobile-menu-header">
+      <div class="site-mobile-menu-close mt-3">
+        <span class="icon-close2 js-menu-toggle"></span>
+      </div>
+    </div>
+    <div class="site-mobile-menu-body"></div>
+  </div> <!-- .site-mobile-menu -->
+
+  <div class="site-blocks-cover overlay" style="background-image: url(images/2.jpg);" data-aos="fade"
+    data-stellar-background-ratio="0.5" data-aos="fade">
+    <div class="container">
+
+      <div class="row align-items-center justify-content-center">
+        <div class="col-md-7 text-center" data-aos="fade-up" data-aos-delay="400">
+          <br><br><br>
+
+          <h2 class="mb-4 " style="font-size:48pt;">
+            <strong class="text-primary">Ali</strong>
+            <strong class="text-white">Store</strong>
+          </h2>
+          <a type="button" class="btn btn-primary px-4 py-3 play-button popup-vimeo" href="video/video1.mp4"
+            data-backdrop="false">
+            <icon class="fa fa-play-circle fa-3x"></icon>
+          </a>
         </div>
       </div>
-      <div class="site-mobile-menu-body"></div>
-    </div> <!-- .site-mobile-menu -->
 
-    <div class="site-blocks-cover overlay" style="background-image: url(images/2.jpg);" data-aos="fade"
-      data-stellar-background-ratio="0.5" data-aos="fade">
+    </div>
+
+  </div>
+
+  <div id="ofertas" class="site-section">
+    <div class="container" data-aos="fade-up">
+      <div class="row">
+        <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
+          <h2 class="mb-5">Últimos Días</h2>
+          <p>¡No dejes pasar esta oportunidad! ¡Ofertas en diferentes polos y pantalones! Solo en ALISTORE, "La moda
+            en
+            tus manos"</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
+          <a href="#" class="unit-9">
+            <div class="image" style="background-image: url('images/as4.jpeg');"></div>
+            <div class="unit-9-content">
+              <h2>Sale Oferta</h2>
+              <span>Viernes 8:00am &mdash; 2:30pm</span>
+              <span>Wendy Matos</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
+          <a href="#" class="unit-9">
+            <div class="image" style="background-image: url('images/as5.jpeg');"></div>
+            <div class="unit-9-content">
+              <h2>Liquidación</h2>
+              <span>Sábado 10:00am &mdash; 12:30pm</span>
+              <span>Gaby Tenda</span>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
+          <a href="#" class="unit-9">
+            <div class="image" style="background-image: url('images/as6.jpeg');"></div>
+            <div class="unit-9-content">
+              <h2>Clásicos</h2>
+              <span>Domingo 1:00pm &mdash; 6:30pm</span>
+              <span>James Tenda</span>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
+          <a href="#" class="unit-9">
+            <div class="image" style="background-image: url('images/as8.jpeg');"></div>
+            <div class="unit-9-content">
+              <h2>Mini Ofertas</h2>
+              <span>Lunes 3:00pm &mdash; 5:00pm</span>
+              <span>Troy Peters</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--<div class="site-section">
+
       <div class="container">
 
-        <div class="row align-items-center justify-content-center">
-          <div class="col-md-7 text-center" data-aos="fade-up" data-aos-delay="400">
-            <br><br><br>
-
-            <h2 class="mb-4 " style="font-size:48pt;">
-              <strong class="text-primary">Ali</strong>
-              <strong class="text-white">Store</strong>
-            </h2>
-            <a type="button" class="btn btn-primary px-4 py-3 play-button popup-vimeo" href="video/video1.mp4"
-              data-backdrop="false">
-              <icon class="fa fa-play-circle fa-3x"></icon>
-            </a>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-
-    <div id="ofertas" class="site-section">
-      <div class="container" data-aos="fade-up">
         <div class="row">
-          <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
-            <h2 class="mb-5">Últimos Días</h2>
-            <p>¡No dejes pasar esta oportunidad! ¡Ofertas en diferentes polos y pantalones! Solo en ALISTORE, "La moda
-              en
-              tus manos"</p>
+          <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
+            <h2 class="mb-5">Featured Podcasts</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque deserunt officia, error reiciendis ab quod?</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
-            <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/as4.jpeg');"></div>
-              <div class="unit-9-content">
-                <h2>Sale Oferta</h2>
-                <span>Viernes 8:00am &mdash; 2:30pm</span>
-                <span>Wendy Matos</span>
-              </div>
-            </a>
-          </div>
+        
+        <div class="site-block-retro d-block d-md-flex">
 
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
-            <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/as5.jpeg');"></div>
-              <div class="unit-9-content">
-                <h2>Liquidación</h2>
-                <span>Sábado 10:00am &mdash; 12:30pm</span>
-                <span>Gaby Tenda</span>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
-            <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/as6.jpeg');"></div>
-              <div class="unit-9-content">
-                <h2>Clásicos</h2>
-                <span>Domingo 1:00pm &mdash; 6:30pm</span>
-                <span>James Tenda</span>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
-            <a href="#" class="unit-9">
-              <div class="image" style="background-image: url('images/as8.jpeg');"></div>
-              <div class="unit-9-content">
-                <h2>Mini Ofertas</h2>
-                <span>Lunes 3:00pm &mdash; 5:00pm</span>
-                <span>Troy Peters</span>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!--<div class="site-section">
-
-        <div class="container">
-
-          <div class="row">
-            <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
-              <h2 class="mb-5">Featured Podcasts</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque deserunt officia, error reiciendis ab quod?</p>
+          <a href="#" class="col1 unit-9 no-height" data-aos="fade-up" data-aos-delay="100">
+            <div class="image" style="background-image: url('images/img_2.jpg');"></div>
+            <div class="unit-9-content">
+              <h2>Classic Songs For Classic People</h2>
+              <span>Friday 1:00pm &mdash; 2:30pm</span>
             </div>
-          </div>
-          
-          <div class="site-block-retro d-block d-md-flex">
+          </a>
 
-            <a href="#" class="col1 unit-9 no-height" data-aos="fade-up" data-aos-delay="100">
-              <div class="image" style="background-image: url('images/img_2.jpg');"></div>
+          <div class="col2 ml-auto">
+
+            <a href="#" class="col2-row1 unit-9 no-height" data-aos="fade-up" data-aos-delay="200">
+              <div class="image" style="background-image: url('images/img_3.jpg');"></div>
               <div class="unit-9-content">
                 <h2>Classic Songs For Classic People</h2>
                 <span>Friday 1:00pm &mdash; 2:30pm</span>
               </div>
             </a>
 
-            <div class="col2 ml-auto">
-
-              <a href="#" class="col2-row1 unit-9 no-height" data-aos="fade-up" data-aos-delay="200">
-                <div class="image" style="background-image: url('images/img_3.jpg');"></div>
-                <div class="unit-9-content">
-                  <h2>Classic Songs For Classic People</h2>
-                  <span>Friday 1:00pm &mdash; 2:30pm</span>
-                </div>
-              </a>
-
-              <a href="#" class="col2-row2 unit-9 no-height" data-aos="fade-up" data-aos-delay="300">
-                <div class="image" style="background-image: url('images/img_1.jpg');"></div>
-                <div class="unit-9-content">
-                  <h2>Classic Songs For Classic People</h2>
-                  <span>Friday 1:00pm &mdash; 2:30pm</span>
-                </div>
-              </a>
-
-            </div>
+            <a href="#" class="col2-row2 unit-9 no-height" data-aos="fade-up" data-aos-delay="300">
+              <div class="image" style="background-image: url('images/img_1.jpg');"></div>
+              <div class="unit-9-content">
+                <h2>Classic Songs For Classic People</h2>
+                <span>Friday 1:00pm &mdash; 2:30pm</span>
+              </div>
+            </a>
 
           </div>
-          
+
         </div>
-      </div>-->
+        
+      </div>
+    </div>-->
 
 
-    <div id="nosotros" class="site-section bg-dark block-13">
-      <div class="container" data-aos="fade-up">
-        <div class="row">
-          <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
-            <h2 class="mb-5">Nosotros</h2>
-            <p>En AliStore estamos compremetidos en ofrecerte excelente calidad.</p>
-          </div>
-        </div>
-        <div class="nonloop-block-13 owl-carousel">
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">
-              <img src="images/person_1.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="text-black">
-              <h3 class="font-weight-light h5">Misión</h3>
-              <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
-                illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">
-              <img src="images/person_2.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="text-black">
-              <h3 class="font-weight-light h5">Visión</h3>
-              <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
-                illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">
-              <img src="images/person_3.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="text-black">
-              <h3 class="font-weight-light h5">Philip Martin</h3>
-              <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
-                illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">
-              <img src="images/person_1.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="text-black">
-              <h3 class="font-weight-light h5">Steven Ericson</h3>
-              <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
-                illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
-            </div>
-          </div>
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">
-              <img src="images/person_2.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="text-black">
-              <h3 class="font-weight-light h5">Nathan Dumlao</h3>
-              <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
-                illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
-            </div>
-          </div>
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">
-              <img src="images/person_4.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="text-black">
-              <h3 class="font-weight-light h5">Brook Smith</h3>
-              <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
-                illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
-            </div>
-          </div>
-
+  <div id="nosotros" class="site-section bg-dark block-13">
+    <div class="container" data-aos="fade-up">
+      <div class="row">
+        <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
+          <h2 class="mb-5">Nosotros</h2>
+          <p>En AliStore estamos compremetidos en ofrecerte excelente calidad.</p>
         </div>
       </div>
-    </div>
-    <div class="site-section">
-      <div class="container" data-aos="fade-up">
-        <div class="row">
-          <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
-            <h2 class="mb-5">Título</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque
-              deserunt
-              officia, error reiciendis ab quod?</p>
+      <div class="nonloop-block-13 owl-carousel">
+
+        <div class="text-center p-3 p-md-5 bg-white">
+          <div class="mb-4">
+            <img src="images/person_1.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
+          </div>
+          <div class="text-black">
+            <h3 class="font-weight-light h5">Misión</h3>
+            <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
+              illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-            <div class="team-member">
 
-              <img src="images/ali1.jpeg" alt="Image" class="img-fluid">
-
-              <div class="text">
-
-                <h2 class="mb-2 font-weight-light h4">Megan Smith</h2>
-                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-                <p>
-                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-                </p>
-              </div>
-
-            </div>
+        <div class="text-center p-3 p-md-5 bg-white">
+          <div class="mb-4">
+            <img src="images/person_2.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
           </div>
-
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-            <div class="team-member">
-
-              <img src="images/foto1.jpeg" alt="Image" class="img-fluid">
-
-              <div class="text">
-
-                <h2 class="mb-2 font-weight-light h4">Brooke Cagle</h2>
-                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-                <p>
-                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-                </p>
-              </div>
-
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-            <div class="team-member">
-              <img src="images/foto2.jpeg" alt="Image" class="img-fluid">
-              <div class="text">
-                <h2 class="mb-2 font-weight-light h4">Philip Martin</h2>
-                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-                <p>
-                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-            <div class="team-member">
-
-              <img src="images/elite4.jpg" alt="Image" class="img-fluid">
-
-              <div class="text">
-
-                <h2 class="mb-2 font-weight-light h4">Steven Ericson</h2>
-                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-                <p>
-                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-                </p>
-              </div>
-
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-            <div class="team-member">
-
-              <img src="images/ali2.jpeg" alt="Image" class="img-fluid">
-
-              <div class="text">
-
-                <h2 class="mb-2 font-weight-light h4">Nathan Dumlao</h2>
-                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-                <p>
-                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-                </p>
-              </div>
-
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-            <div class="team-member">
-
-              <img src="images/elite5.jpg" alt="Image" class="img-fluid">
-
-              <div class="text">
-
-                <h2 class="mb-2 font-weight-light h4">Brooke Cagle</h2>
-                <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-                <p>
-                  <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-                </p>
-              </div>
-
-            </div>
+          <div class="text-black">
+            <h3 class="font-weight-light h5">Visión</h3>
+            <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
+              illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
           </div>
         </div>
-      </div>
-    </div>
-    <div class="site-section bg-dark">
-      <div class="container">
-        <div class="row">
-          <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
-            <h2 class="mb-5">Noticias &amp; Eventos</h2>
+
+        <div class="text-center p-3 p-md-5 bg-white">
+          <div class="mb-4">
+            <img src="images/person_3.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
+          </div>
+          <div class="text-black">
+            <h3 class="font-weight-light h5">Philip Martin</h3>
+            <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
+              illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
-            <a href="single.html"></a><img src="images/elite3.jpg" alt="Image" class="img-fluid"></a>
-            <div class="p-4 bg-white">
-              <span class="d-block text-secondary small text-uppercase">20 Enero, 2019</span>
-              <h2 class="h5 text-black mb-3"><a href="single.html">¡--!</a></h2>
 
-            </div>
+        <div class="text-center p-3 p-md-5 bg-white">
+          <div class="mb-4">
+            <img src="images/person_1.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
           </div>
-          <div class="col-lg-4 mb-5 mb-lg-0">
-            <div class="mb-5">
-
-              <h3 class="footer-heading mb-4"></h3>
-
-              <div class="block-16">
-                <figure>
-                  <img src="images/foto1.jpeg" alt="Image placeholder" class="img-fluid rounded">
-                  <a href="video/video1.mp4" class="play-button popup-vimeo">
-                    <span class="icon-play"></span>
-                  </a>
-                </figure>
-              </div>
-
-            </div>
-
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <a href="single.html"><img src="images/elite2.jpg" alt="Image" class="img-fluid"></a>
-            <div class="p-4 bg-white">
-              <span class="d-block text-secondary small text-uppercase">15 Marzo, 2020</span>
-              <h2 class="h5 text-black mb-3"><a href="single.html">¡--!</a></h2>
-
-            </div>
+          <div class="text-black">
+            <h3 class="font-weight-light h5">Steven Ericson</h3>
+            <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
+              illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
           </div>
         </div>
-      </div>
-    </div>
-    <div class="bg-primary" data-aos="fade">
-      <div class="container">
-        <div class="row">
-          <a href="https://www.facebook.com/tienda.alistoreperu/" class="col-6 text-center py-4 social-icon d-block">
-            <span class="icon-facebook text-white">
-            </span>
-            <div class="text-white">
-              @tienda.alistoreperu
-            </div>
-          </a>
-          <a href="https://www.instagram.com/alistore.peru/" class="col-6 text-center py-4 social-icon d-block">
-            <span class="icon-instagram text-white">
-            </span>
-            <div class="text-white">
-              @alistore.peru
-            </div>
-          </a>
+        <div class="text-center p-3 p-md-5 bg-white">
+          <div class="mb-4">
+            <img src="images/person_2.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
+          </div>
+          <div class="text-black">
+            <h3 class="font-weight-light h5">Nathan Dumlao</h3>
+            <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
+              illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
+          </div>
         </div>
-      </div>
-    </div>
-    <footer id="contactanos" class="site-footer">
-
-      <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
-        <h2 class="mb-5">Contáctanos</h2>
-        <p>¿No encuentras el modelo que quieres? ¿Quieres atención personalizada? Mándanos un mensaje con tus datos y
-          gustosos te atenderemos.</p>
-      </div>
-
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-lg-7 mb-5">
-
-            <form action="#" class="contact-form">
-
-              <div class="row form-group">
-                <div class="col-md-12 mb-3 mb-md-0">
-                  <label class="font-weight-bold" for="nombre">Nombre</label>
-                  <input type="text" id="fullname" class="form-control" placeholder="Tu nombre completo..." required="">
-                </div>
-              </div>
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <label class="font-weight-bold" for="email">Email</label>
-                  <input type="email" id="email" class="form-control" placeholder="Tu correo electrónico..." required="">
-                </div>
-              </div>
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <label class="font-weight-bold" for="celular">Celular</label>
-                  <input type="text" id="subject" class="form-control" placeholder="Tu celular o teléfono..." required="">
-                </div>
-              </div>
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <label class="font-weight-bold" for="mensaje">Mensaje</label>
-                  <textarea name="message" id="message" cols="30" rows="5" class="form-control"
-                    placeholder="Escribe aquí tu mensaje..." required=""></textarea>
-                </div>
-              </div>
-
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <input type="submit" value="ENVIAR MENSAJE" class="btn btn-primary py-3 px-4">
-                </div>
-              </div>
-
-            </form>
+        <div class="text-center p-3 p-md-5 bg-white">
+          <div class="mb-4">
+            <img src="images/person_4.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
           </div>
-
-          <div class="col-lg-4 ml-auto">
-            <div class="mb-5">
-              <h3 class="footer-heading mb-4">Correo Electrónico</h3>
-              <p>tienda.alistoreperu@gmail.com</p>
-            </div>
-
-            <div class="mb-5">
-              <h3 class="footer-heading mb-4">Teléfonos</h3>
-              <p>944 819 998 - 942 428 805</p>
-            </div>
-
-            <div class="mb-5">
-              <h3 class="footer-heading mb-4">Síguenos por Redes Sociales</h3>
-              <a href="https://www.facebook.com/tienda.alistoreperu/" class="pl-0 pr-3"><span
-                  class="icon-facebook"></span></a>
-              <a href="https://www.instagram.com/alistore.peru/" class="pl-3 pr-3"><span
-                  class="icon-instagram"></span></a>
-              <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20AliStore. (https://alistoreperu.com)"
-                class="pl-3 pr-3"><span class="icon-whatsapp"></span></a>
-            </div>
-
+          <div class="text-black">
+            <h3 class="font-weight-light h5">Brook Smith</h3>
+            <p class="font-italic">&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam
+              illo, cum sed ea? Ducimus quos, ea?&rdquo;</p>
           </div>
-
         </div>
 
       </div>
-
-      <div class="col-md-12 text-center">
-        <p>
-          <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-          <b>Copyright &copy;
-            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-            <script>
-              document.write(new Date().getFullYear());
-            </script> Todos los derechos reservados |
-            <a href="https://gogazo.com" target="_blank" style="color: skyblue;">Gogazo - Diseño y Desarrollo Web</a>
-          </b>
-          <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        </p>
-      </div>
-
-    </footer>
+    </div>
   </div>
+  <div class="site-section">
+    <div class="container" data-aos="fade-up">
+      <div class="row">
+        <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
+          <h2 class="mb-5">Título</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque
+            deserunt
+            officia, error reiciendis ab quod?</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+          <div class="team-member">
 
+            <img src="images/ali1.jpeg" alt="Image" class="img-fluid">
+
+            <div class="text">
+
+              <h2 class="mb-2 font-weight-light h4">Megan Smith</h2>
+              <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
+              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
+              <p>
+                <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+          <div class="team-member">
+
+            <img src="images/foto1.jpeg" alt="Image" class="img-fluid">
+
+            <div class="text">
+
+              <h2 class="mb-2 font-weight-light h4">Brooke Cagle</h2>
+              <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
+              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
+              <p>
+                <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+          <div class="team-member">
+            <img src="images/foto2.jpeg" alt="Image" class="img-fluid">
+            <div class="text">
+              <h2 class="mb-2 font-weight-light h4">Philip Martin</h2>
+              <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
+              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
+              <p>
+                <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+          <div class="team-member">
+
+            <img src="images/elite4.jpg" alt="Image" class="img-fluid">
+
+            <div class="text">
+
+              <h2 class="mb-2 font-weight-light h4">Steven Ericson</h2>
+              <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
+              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
+              <p>
+                <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+          <div class="team-member">
+
+            <img src="images/ali2.jpeg" alt="Image" class="img-fluid">
+
+            <div class="text">
+
+              <h2 class="mb-2 font-weight-light h4">Nathan Dumlao</h2>
+              <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
+              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
+              <p>
+                <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+          <div class="team-member">
+
+            <img src="images/elite5.jpg" alt="Image" class="img-fluid">
+
+            <div class="text">
+
+              <h2 class="mb-2 font-weight-light h4">Brooke Cagle</h2>
+              <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
+              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
+              <p>
+                <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
+                <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
+              </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="site-section bg-dark">
+    <div class="container">
+      <div class="row">
+        <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
+          <h2 class="mb-5">Noticias &amp; Eventos</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
+          <a href="single.html"></a><img src="images/elite3.jpg" alt="Image" class="img-fluid"></a>
+          <div class="p-4 bg-white">
+            <span class="d-block text-secondary small text-uppercase">20 Enero, 2019</span>
+            <h2 class="h5 text-black mb-3"><a href="single.html">¡--!</a></h2>
+
+          </div>
+        </div>
+        <div class="col-lg-4 mb-5 mb-lg-0">
+          <div class="mb-5">
+
+            <h3 class="footer-heading mb-4"></h3>
+
+            <div class="block-16">
+              <figure>
+                <img src="images/foto1.jpeg" alt="Image placeholder" class="img-fluid rounded">
+                <a href="video/video1.mp4" class="play-button popup-vimeo">
+                  <span class="icon-play"></span>
+                </a>
+              </figure>
+            </div>
+
+          </div>
+
+        </div>
+        <div class="col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <a href="single.html"><img src="images/elite2.jpg" alt="Image" class="img-fluid"></a>
+          <div class="p-4 bg-white">
+            <span class="d-block text-secondary small text-uppercase">15 Marzo, 2020</span>
+            <h2 class="h5 text-black mb-3"><a href="single.html">¡--!</a></h2>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bg-primary" data-aos="fade">
+    <div class="container">
+      <div class="row">
+        <a href="https://www.facebook.com/tienda.alistoreperu/" class="col-6 text-center py-4 social-icon d-block">
+          <span class="icon-facebook text-white">
+          </span>
+          <div class="text-white">
+            @tienda.alistoreperu
+          </div>
+        </a>
+        <a href="https://www.instagram.com/alistore.peru/" class="col-6 text-center py-4 social-icon d-block">
+          <span class="icon-instagram text-white">
+          </span>
+          <div class="text-white">
+            @alistore.peru
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <footer id="contactanos" class="site-footer">
+
+    <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
+      <h2 class="mb-5">Contáctanos</h2>
+      <p>¿No encuentras el modelo que quieres? ¿Quieres atención personalizada? Mándanos un mensaje con tus datos y
+        gustosos te atenderemos.</p>
+    </div>
+
+    <div id="app" class="container">
+      <div class="row">
+        <div class="col-md-12 col-lg-7 mb-5">
+          <div v-if="confirmacion" class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>Hola {{tempNombre}}</strong>, se envió un mensaje al correo electrónico {{tempCorreo}}.
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+
+          <form @submit.prevent="sendEmail" class="contact-form">
+            <div class="row form-group">
+              <div class="col-md-12 mb-3 mb-md-0">
+                <label class="font-weight-bold" for="nombre">Nombre</label>
+                <input v-model="info.nombre" type="text" id="fullname" class="form-control" placeholder="Tu nombre completo..." required="">
+              </div>
+            </div>
+            <div class="row form-group">
+              <div class="col-md-12">
+                <label class="font-weight-bold" for="email">Email</label>
+                <input v-model="info.correo" type="email" id="email" class="form-control" placeholder="Tu correo electrónico..." required="">
+              </div>
+            </div>
+            <div class="row form-group">
+              <div class="col-md-12">
+                <label class="font-weight-bold" for="celular">Celular</label>
+                <input v-model="info.numero" type="text" id="subject" class="form-control" placeholder="Tu celular o teléfono..." required="">
+              </div>
+            </div>
+            <div class="row form-group">
+              <div class="col-md-12">
+                <label class="font-weight-bold" for="mensaje">Mensaje</label>
+                <textarea v-model="info.mensaje" name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Escribe aquí tu mensaje..." required=""></textarea>
+              </div>
+            </div>
+
+            <div class="row form-group">
+              <div class="col-md-12">
+                <input type="submit" :value="mensajeBoton" class="btn btn-primary py-3 px-4" :disabled="disabled">
+              </div>
+            </div>
+
+          </form>
+        </div>
+
+        <div class="col-lg-4 ml-auto">
+          <div class="mb-5">
+            <h3 class="footer-heading mb-4">Correo Electrónico</h3>
+            <p>tienda.alistoreperu@gmail.com</p>
+          </div>
+
+          <div class="mb-5">
+            <h3 class="footer-heading mb-4">Teléfonos</h3>
+            <p>944 819 998 - 942 428 805</p>
+          </div>
+
+          <div class="mb-5">
+            <h3 class="footer-heading mb-4">Síguenos por Redes Sociales</h3>
+            <a href="https://www.facebook.com/tienda.alistoreperu/" class="pl-0 pr-3"><span
+                class="icon-facebook"></span></a>
+            <a href="https://www.instagram.com/alistore.peru/" class="pl-3 pr-3"><span
+                class="icon-instagram"></span></a>
+            <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20AliStore. (https://alistoreperu.com)"
+              class="pl-3 pr-3"><span class="icon-whatsapp"></span></a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="col-md-12 text-center">
+      <p>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        <b>Copyright &copy;
+          <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+          <script>
+            document.write(new Date().getFullYear());
+          </script> Todos los derechos reservados |
+          <a href="https://gogazo.com" target="_blank" style="color: skyblue;">Gogazo - Diseño y Desarrollo Web</a>
+        </b>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      </p>
+    </div>
+
+  </footer>
+
+  <script src="https://unpkg.com/vue@2.5.16/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/async/3.2.0/async.min.js"></script>
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/jquery-ui.js"></script>
@@ -630,6 +635,55 @@
   <script src="js/circleaudioplayer.js"></script>
 
   <script src="js/main.js"></script>
+
+  <script>
+    new Vue({
+      el: "#app",
+      data(){
+        return{
+          info: {
+            numero: '',
+            correo: '',
+            nombre: '',
+            mensaje: '',
+          },
+          mensajeBoton:'ENVIAR MENSAJE',
+          disabled: false,
+          tempNombre: '',
+          tempCorreo: '',
+          confirmacion: false
+        }
+      },
+
+      methods: {
+        async sendEmail(){
+          if(this.info.numero == '') return
+          if(this.info.correo == '') return
+          if(this.info.nombre == '') return
+          if(this.info.mensaje == '') return
+          let post = this.info;
+          this.disabled = true;
+          this.mensajeBoton = 'ESPERE...';
+          this.tempNombre = this.info.nombre;
+          this.tempCorreo = this.info.correo;
+          let {data} = await axios.post('https://api-remuneracion.herokuapp.com/api_remuneracion/v1/enviar_correo_alistore',post);
+          if(data.estado){
+            this.confirmacion = true;
+            this.info.nombre = '';
+            this.info.correo = '';
+            this.info.numero = '';
+            this.info.mensaje = '';
+            this.mensajeBoton = 'ENVIAR MENSAJE';
+            this.disabled = false;
+          }
+          setTimeout(()=>{this.confirmacion = false; this.tempCorreo=''; this.tempNombre='';},5000);
+        }
+      },
+      mounted() {
+        
+      },
+    })
+  </script>
 
 </body>
 
