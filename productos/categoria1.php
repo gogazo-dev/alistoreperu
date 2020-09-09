@@ -221,7 +221,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 49.99</b></span>
+                                            <span class="text-alishore"><b>S/. 49.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
@@ -255,7 +255,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 24.99</b></span>
+                                            <span class="text-alishore"><b>S/. 24.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
@@ -323,7 +323,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 79.90</b></span>
+                                            <span class="text-alishore"><b>S/. 39.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
@@ -357,7 +357,7 @@
                                             <h4 class="product-title">Precio</h4>
                                             <div class="price-reviews">
                                                 <span class="price-box">
-                                                    <span class="text-alishore"><b>S/. 34.99</b></span>
+                                                    <span class="text-alishore"><b>S/. 34.90</b></span>
                                                     <!--<span class="old-price">S/. 500.00</span>-->
                                                 </span>
                                                 <span class="ratings float-right"></span>
@@ -391,7 +391,7 @@
                                             <h4 class="product-title">Precio</h4>
                                             <div class="price-reviews">
                                                 <span class="price-box">
-                                                    <span class="text-alishore"><b>S/. 34.99</b></span>
+                                                    <span class="text-alishore"><b>S/. 34.90</b></span>
                                                     <!--<span class="old-price">S/. 500.00</span>-->
                                                 </span>
                                                 <span class="ratings float-right"></span>
@@ -425,7 +425,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 42.99</b></span>
+                                            <span class="text-alishore"><b>S/. 42.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
@@ -459,7 +459,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 39.99</b></span>
+                                            <span class="text-alishore"><b>S/. 39.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
@@ -493,7 +493,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 55.99</b></span>
+                                            <span class="text-alishore"><b>S/. 55.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
@@ -527,7 +527,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 49.99</b></span>
+                                            <span class="text-alishore"><b>S/. 49.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
