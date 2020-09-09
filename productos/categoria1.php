@@ -1,8 +1,9 @@
 <div class="content-detached ">
     <div class="content-body">
         <div class="product-shop">
-     
+
             <div class="row match-height">
+                <!--1-->
                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
                     <div class="card pull-up">
                         <div class="card-content">
@@ -15,8 +16,8 @@
                                     <h4 class="product-title">Oferta</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore">S/. 250.00</span>
-                                            <span class="old-price">S/. 500.00</span>
+                                            <!--<span class="text-alishore"><b>S/. 250.00</b></span>
+                                            <span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
                                     </div>
@@ -30,12 +31,14 @@
                                     <span class="saperator">|</span>
 
                                     <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
-                                    <a href="#cart" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <!--2-->
                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
                     <div class="card pull-up">
                         <div class="card-content">
@@ -48,8 +51,8 @@
                                     <h4 class="product-title">Oferta</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore">S/. 250.00</span>
-                                            <span class="old-price">S/. 500.00</span>
+                                            <!--<span class="text-alishore"><b>S/. 250.00</b></span>
+                                            <span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
                                     </div>
@@ -63,12 +66,14 @@
                                     <span class="saperator">|</span>
 
                                     <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
-                                    <a href="#cart" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <!--3-->
                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
                     <div class="card pull-up">
                         <div class="card-content">
@@ -80,8 +85,8 @@
                                     <h4 class="product-title">Oferta</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore">S/. 250.00</span>
-                                            <span class="old-price">S/. 500.00</span>
+                                            <!--<span class="text-alishore"><b>S/. 250.00</b></span>
+                                            <span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
                                     </div>
@@ -95,12 +100,14 @@
                                     <span class="saperator">|</span> 
 
                                     <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
-                                    <a href="#cart" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <!--4-->
                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
                     <div class="card pull-up">
                         <div class="card-content">
@@ -112,8 +119,8 @@
                                     <h4 class="product-title">Oferta</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore">S/. 250.00</span>
-                                            <span class="old-price">S/. 500.00</span>
+                                            <!--<span class="text-alishore"><b>S/. 250.00</b></span>
+                                            <span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
                                     </div>
@@ -127,12 +134,14 @@
                                     <span class="saperator">|</span>       
                                     
                                     <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
-                                    <a href="#cart" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <!--5-->
                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
                     <div class="card pull-up">
                         <div class="card-content">
@@ -144,8 +153,8 @@
                                     <h4 class="product-title">Oferta</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore">S/. 250.00</span>
-                                            <span class="old-price">S/. 500.00</span>
+                                            <!--<span class="text-alishore"><b>S/. 250.00</b></span>
+                                            <span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
                                     </div>
@@ -159,12 +168,14 @@
                                     <span class="saperator">|</span>
 
                                     <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
-                                    <a href="#cart" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <!--6-->
                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
                     <div class="card pull-up">
                         <div class="card-content">
@@ -176,8 +187,8 @@
                                     <h4 class="product-title">Oferta</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore">S/. 250.00</span>
-                                            <span class="old-price">S/. 500.00</span>
+                                            <!--<span class="text-alishore"><b>S/. 250.00</b></span>
+                                            <span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
                                     </div>
@@ -191,13 +202,353 @@
                                     <span class="saperator">|</span> 
                                     
                                     <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
-                                    <a href="#cart" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <!--7-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as10.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 49.99</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#blusa7">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--8-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as11.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 24.99</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#blusa8">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--9-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as12.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 39.90</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#blusa9">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--10-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as14.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 79.90</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#blusa10">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--11-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                            <div class="card pull-up">
+                                <div class="card-content">
+                                    <div class="card-body">
+                                        <a href="#">
+                                            <div class="product-img d-flex align-items-center">
+                                                <img class="img-fluid mb-1" src="app-assets/images/elements/as15.jpeg" alt="Card image cap">
+                                            </div>
+                                            <h4 class="product-title">Precio</h4>
+                                            <div class="price-reviews">
+                                                <span class="price-box">
+                                                    <span class="text-alishore"><b>S/. 34.99</b></span>
+                                                    <!--<span class="old-price">S/. 500.00</span>-->
+                                                </span>
+                                                <span class="ratings float-right"></span>
+                                            </div>
+                                        </a>
+                                        <div class="product-action d-flex justify-content-around">
+                                            <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                            
+                                            <a data-toggle="modal" data-target="#blusa11">
+                                                <i class="ft-eye text-alishore"></i>
+                                            </a>
+                                            <span class="saperator">|</span> 
+                                            
+                                            <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                            <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                <!--12-->
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                            <div class="card pull-up">
+                                <div class="card-content">
+                                    <div class="card-body">
+                                        <a href="#">
+                                            <div class="product-img d-flex align-items-center">
+                                                <img class="img-fluid mb-1" src="app-assets/images/elements/as16.jpeg" alt="Card image cap">
+                                            </div>
+                                            <h4 class="product-title">Precio</h4>
+                                            <div class="price-reviews">
+                                                <span class="price-box">
+                                                    <span class="text-alishore"><b>S/. 34.99</b></span>
+                                                    <!--<span class="old-price">S/. 500.00</span>-->
+                                                </span>
+                                                <span class="ratings float-right"></span>
+                                            </div>
+                                        </a>
+                                        <div class="product-action d-flex justify-content-around">
+                                            <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                            
+                                            <a data-toggle="modal" data-target="#blusa12">
+                                                <i class="ft-eye text-alishore"></i>
+                                            </a>
+                                            <span class="saperator">|</span> 
+                                            
+                                            <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                            <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                <!--13-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as17.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 42.99</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#pantalon3">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--14-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as18.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 39.99</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#pantalon3">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>     
                 
+                <!--15-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as19.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 55.99</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#pantalon3">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+
+                <!--16-->
+                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                    <div class="card pull-up">
+                        <div class="card-content">
+                            <div class="card-body">
+                                <a href="#">
+                                    <div class="product-img d-flex align-items-center">
+                                        <img class="img-fluid mb-1" src="app-assets/images/elements/as20.jpeg" alt="Card image cap">
+                                    </div>
+                                    <h4 class="product-title">Precio</h4>
+                                    <div class="price-reviews">
+                                        <span class="price-box">
+                                            <span class="text-alishore"><b>S/. 49.99</b></span>
+                                            <!--<span class="old-price">S/. 500.00</span>-->
+                                        </span>
+                                        <span class="ratings float-right"></span>
+                                    </div>
+                                </a>
+                                <div class="product-action d-flex justify-content-around">
+                                    <a href="#like" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="ft-heart text-alishore"></i></a><span class="saperator">|</span>
+                                    
+                                    <a data-toggle="modal" data-target="#pantalon3">
+                                        <i class="ft-eye text-alishore"></i>
+                                    </a>
+                                    <span class="saperator">|</span> 
+                                    
+                                    <a href="#compare" data-toggle="tooltip" data-placement="top" title="Compare"><i class="ft-sliders text-alishore"></i></a><span class="saperator">|</span>
+                                    <a href="https://api.whatsapp.com/send?phone=51942428805&text=Hola%20AliStore%21%20Quisiera%20saber%20si%20tiene%20este%20producto." data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="ft-shopping-cart text-alishore"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>     
+
                 <!--<div class="col-12">
                     <div class="card">
                         <div class="card-content">
@@ -260,6 +611,10 @@
                                 <li><button class="btn btn-xs btn-black"></button> Negro</li>
                                 <li><button class="btn btn-xs" style="background-color: #c93c20;"></button> Ladrillo</li>
                             </ul>
+                        </div>
+
+                        <div>
+                            <span class="text-black"><b>Stock: 6 unidades</b></span> 
                         </div>
 
                         <div>
@@ -407,7 +762,7 @@
                         </div>
 
                         <div>
-                            <span class="text-black"><b>Material: Tela Chalis</b></span> 
+                            <span class="text-black"><b>Material: Tela Franela Reactiva</b></span> 
                         </div>
 
                     </div>

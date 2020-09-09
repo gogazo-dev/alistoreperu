@@ -168,28 +168,29 @@
             <div class="row">
 
                 <ul class="nav nav-tabs nav-justified">
-                    <div class="col-sm-3 col-6">
+                    <div class="col-sm-6 col-6">
                         <li class="nav-item  ">
                             <a class="btn btn-block" id="tab-categoria1" data-toggle="tab" aria-controls="shop-cart-tab" href="#" aria-expanded="true">Blusas</a>
 
                         </li>
                     </div>
-                    <div class="col-sm-3 col-6">
+                    <div class="col-sm-6 col-6">
                         <li class="nav-item  ">
                             <a class="btn btn-block " id="tab-categoria2" data-toggle="tab" aria-controls="checkout-tab" href="#" aria-expanded="false">Pantalones</a>
                         </li>
                     </div>
+                    <!--
                     <div class="col-sm-3 col-6">
                         <li class="nav-item  ">
-                            <a class="btn btn-block " id="tab-categoria3" data-toggle="tab" aria-controls="comp-order-tab" href="#" aria-expanded="false">Vestidos</a>
+                            <a class="btn btn-block " id="tab-categoria3" data-toggle="tab" aria-controls="comp-order-tab" href="#" aria-expanded="false">Conjuntos</a>
                         </li>
                     </div>
                     <div class="col-sm-3 col-6">
                         <li class="nav-item  ">
-                            <a class="btn btn-block " id="tab-categoria4" data-toggle="tab" aria-controls="comp-order-tab" href="#" aria-expanded="false">Blusas niña</a>
+                            <a class="btn btn-block " id="tab-categoria4" data-toggle="tab" aria-controls="comp-order-tab" href="#" aria-expanded="false">Vestidos</a>
                         </li>
                     </div>
-
+                    -->
                 </ul>
 
             </div>
