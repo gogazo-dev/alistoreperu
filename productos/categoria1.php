@@ -289,7 +289,7 @@
                                     <h4 class="product-title">Precio</h4>
                                     <div class="price-reviews">
                                         <span class="price-box">
-                                            <span class="text-alishore"><b>S/. 39.90</b></span>
+                                            <span class="text-alishore"><b>S/. 34.90</b></span>
                                             <!--<span class="old-price">S/. 500.00</span>-->
                                         </span>
                                         <span class="ratings float-right"></span>
