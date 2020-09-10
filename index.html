@@ -466,7 +466,7 @@
 
             <div class="block-16">
               <figure>
-                <img src="images/foto5.jpeg" alt="Image placeholder" class="img-fluid rounded" style="height: 450px; width: 800px;">
+                <img src="images/foto5.jpeg" alt="Image placeholder" class="img-fluid rounded" style="height: 450px; width: 1000px;">
               </figure>
             </div>
 
@@ -528,7 +528,7 @@
       <div class="row">
         <div class="col-md-12 col-lg-7 mb-5">
           <div v-if="confirmacion" class="alert alert-primary alert-dismissible fade show" role="alert">
-            <strong>Hola {{tempNombre}}</strong>, se envió un mensaje al correo electrónico {{tempCorreo}}.
+            <strong>Hola <span v-html="info.nombre" ></span></strong>. Se envío un mensaje al correo electrónico de <span v-html="info.correo"></span></strong>.
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
